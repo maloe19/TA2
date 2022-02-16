@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\ConsoleApp1\\TA2\\TA2.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\TA2\\TA2\\TA2.csproj",
       "projectName": "TA2",
-      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\ConsoleApp1\\TA2\\TA2.csproj",
+      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\TA2\\TA2\\TA2.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\ConsoleApp1\\TA2\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\TA2\\TA2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
